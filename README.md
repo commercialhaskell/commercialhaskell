@@ -13,7 +13,7 @@ The primary purpose here is to foster discussion and encourage collaboration. Th
 * Share information on requirements so that open-source contributors can focus their contributions in areas of greatest need or opportunity
 * Publicize Haskell successes (and available tools/solutions) both inside and outside the Haskell community
 
-The following is a list of members of the group. Everyone is welcome to be part of the mailing list and participate in the Wiki. If you'd like to more officially join, please send a pull request adding yourself to the list below. If you'd like to officially join, please send a pull request to include yourself or your company in the list below. There are no requirements- financial or otherwise- on members of the group.
+The following is a list of members of the group. Everyone is welcome to be part of the mailing list and participate in the Wiki. If you'd like to join more officially, please send a pull request adding yourself or your company in the list below. There are no requirements - financial or otherwise - on members of the group.
 
 (Please try to keep the lists in alphabetical order.)
 
