@@ -34,6 +34,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Chris Dornan
 * Christopher Reichert
 * Edward Kmett
+* Flavio Villanustre
 * Greg Weber
 * Ivan Perez
 * Mathieu Boespflug
