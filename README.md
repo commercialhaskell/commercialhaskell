@@ -22,6 +22,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * FP Complete
 * Iris Connect
 * Keera Studios
+* LexisNexis Risk Solutions
 * Pivot Cloud
 * Standard Chartered
 * Tsuru Capital
