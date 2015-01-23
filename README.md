@@ -39,6 +39,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Flavio Villanustre
 * Greg Weber
 * Ivan Perez
+* Jasper Van der Jeugt
 * Mathieu Boespflug
 * Michael Snoyman
 * Neil Mitchell
