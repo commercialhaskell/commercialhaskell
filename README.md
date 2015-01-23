@@ -20,6 +20,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 ## Companies
 
 * FP Complete
+* Keera Studios
 * Pivot Cloud
 * Standard Chartered
 * Tsuru Capital
@@ -31,6 +32,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Christopher Reichert
 * Edward Kmett
 * Greg Weber
+* Ivan Perez
 * Mathieu Boespflug
 * Michael Snoyman
 * Neil Mitchell
