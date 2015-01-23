@@ -20,14 +20,17 @@ The following is a list of members of the group. Everyone is welcome to be part 
 ## Companies
 
 * FP Complete
+* Iris Connect
 * Pivot Cloud
 * Standard Chartered
 * Tsuru Capital
 
 ## Individuals
 
+* Alfredo Di Napoli
 * Blake Rain
 * Chris Done
+* Chris Dornan
 * Christopher Reichert
 * Edward Kmett
 * Greg Weber
