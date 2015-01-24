@@ -34,6 +34,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 
 ## Individuals
 
+* Alex Lang
 * Alfredo Di Napoli
 * Alp Mestanogullari
 * Ben Ford
@@ -48,8 +49,10 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Greg Weber
 * Ivan Perez
 * Jasper Van der Jeugt
+* Liyang HU
 * Manuel Chakravarty
 * Mathieu Boespflug
+* Michael Baikov
 * Michael Snoyman
 * Neil Mitchell
 * Pat Brisbin
