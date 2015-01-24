@@ -20,6 +20,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 ## Companies
 
 * FP Complete
+* Infinipool
 * Iris Connect
 * Keera Studios
 * LexisNexis Risk Solutions
@@ -43,4 +44,5 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Mathieu Boespflug
 * Michael Snoyman
 * Neil Mitchell
+* Philipp Kant
 * Simon Marlow
