@@ -54,5 +54,6 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Neil Mitchell
 * Pat Brisbin
 * Philipp Kant
+* Renzo Carbonara
 * Simon Marlow
 * Vincent Hanquez
