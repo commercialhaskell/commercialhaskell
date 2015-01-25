@@ -26,6 +26,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * LexisNexis Risk Solutions
 * Pivot Cloud
 * Standard Chartered
+* thoughtbot
 * Tsuru Capital
 * Facebook
 
@@ -48,4 +49,5 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Mathieu Boespflug
 * Michael Snoyman
 * Neil Mitchell
+* Pat Brisbin
 * Simon Marlow
