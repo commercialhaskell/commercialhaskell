@@ -19,30 +19,40 @@ The following is a list of members of the group. Everyone is welcome to be part 
 
 ## Companies
 
+* Borders
 * FP Complete
+* Hooky, Inc
 * Infinipool
 * Iris Connect
 * Keera Studios
 * LexisNexis Risk Solutions
 * Pivot Cloud
 * Standard Chartered
+* thoughtbot
 * Tsuru Capital
+* Facebook
 
 ## Individuals
 
 * Alfredo Di Napoli
+* Alp Mestanogullari
 * Ben Ford
+* Ben Moseley
 * Blake Rain
 * Chris Done
 * Chris Dornan
 * Christopher Reichert
 * Edward Kmett
 * Flavio Villanustre
+* Fuzz Leonard
 * Greg Weber
 * Ivan Perez
 * Jasper Van der Jeugt
+* Manuel Chakravarty
 * Mathieu Boespflug
 * Michael Snoyman
 * Neil Mitchell
+* Pat Brisbin
 * Philipp Kant
 * Simon Marlow
+* Vincent Hanquez
