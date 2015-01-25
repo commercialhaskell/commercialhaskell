@@ -19,6 +19,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 
 ## Companies
 
+* Borders
 * FP Complete
 * Hooky, Inc
 * Iris Connect
@@ -35,6 +36,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Alfredo Di Napoli
 * Alp Mestanogullari
 * Ben Ford
+* Ben Moseley
 * Blake Rain
 * Chris Done
 * Chris Dornan
