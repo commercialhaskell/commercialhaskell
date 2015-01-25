@@ -27,6 +27,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Pivot Cloud
 * Standard Chartered
 * Tsuru Capital
+* Facebook
 
 ## Individuals
 
