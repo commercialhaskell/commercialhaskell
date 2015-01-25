@@ -20,6 +20,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 ## Companies
 
 * FP Complete
+* Hooky, Inc
 * Iris Connect
 * Keera Studios
 * LexisNexis Risk Solutions
@@ -37,6 +38,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Christopher Reichert
 * Edward Kmett
 * Flavio Villanustre
+* Fuzz Leonard
 * Greg Weber
 * Ivan Perez
 * Jasper Van der Jeugt
