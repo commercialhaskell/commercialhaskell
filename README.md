@@ -19,6 +19,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 
 ## Companies
 
+* Borders
 * FP Complete
 * Iris Connect
 * Keera Studios
@@ -31,6 +32,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 
 * Alfredo Di Napoli
 * Ben Ford
+* Ben Moseley
 * Blake Rain
 * Chris Done
 * Chris Dornan
