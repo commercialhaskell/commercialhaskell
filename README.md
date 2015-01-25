@@ -51,3 +51,4 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Neil Mitchell
 * Pat Brisbin
 * Simon Marlow
+* Vincent Hanquez
