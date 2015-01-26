@@ -31,6 +31,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * thoughtbot
 * Tsuru Capital
 * Facebook
+* Wellposed
 * Well-Typed
 
 ## Individuals
@@ -43,6 +44,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Ben Ford
 * Ben Moseley
 * Blake Rain
+* Carter Schonwald
 * Chris Done
 * Chris Dornan
 * Christopher Reichert
