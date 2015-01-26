@@ -31,18 +31,22 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * thoughtbot
 * Tsuru Capital
 * Facebook
+* Well-Typed
 
 ## Individuals
 
+* Adam Gundry
 * Alex Lang
 * Alfredo Di Napoli
 * Alp Mestanogullari
+* Andres Löh
 * Ben Ford
 * Ben Moseley
 * Blake Rain
 * Chris Done
 * Chris Dornan
 * Christopher Reichert
+* Duncan Coutts
 * Edward Kmett
 * Flavio Villanustre
 * Fuzz Leonard
