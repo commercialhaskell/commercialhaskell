@@ -20,6 +20,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 ## Companies
 
 * Borders
+* Facebook
 * FP Complete
 * Hooky, Inc
 * Infinipool
@@ -30,7 +31,6 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Standard Chartered
 * thoughtbot
 * Tsuru Capital
-* Facebook
 * Well-Typed
 
 ## Individuals
