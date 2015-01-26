@@ -64,3 +64,4 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Renzo Carbonara
 * Simon Marlow
 * Vincent Hanquez
+* Neil Bartlett
