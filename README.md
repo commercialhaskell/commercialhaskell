@@ -60,6 +60,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Ivan Perez
 * Jasper Van der Jeugt
 * Jesus Gonzalez
+* Jürgen Keck
 * Liyang HU
 * Manuel Chakravarty
 * Mathieu Boespflug
