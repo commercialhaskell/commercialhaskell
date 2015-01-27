@@ -51,6 +51,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Chris Done
 * Chris Dornan
 * Christopher Reichert
+* David Johnson
 * Duncan Coutts
 * Edward Kmett
 * Flavio Villanustre
@@ -63,6 +64,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Junji Hashimoto
 * Jürgen Keck
 * Liyang HU
+* Luke Hoersten
 * Manuel Chakravarty
 * Mathieu Boespflug
 * Michael Baikov
