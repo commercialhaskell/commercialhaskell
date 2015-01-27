@@ -20,17 +20,20 @@ The following is a list of members of the group. Everyone is welcome to be part 
 ## Companies
 
 * Borders
+* Facebook
 * FP Complete
 * Hooky, Inc
 * Infinipool
 * Iris Connect
 * Keera Studios
+* Least Fixed
 * LexisNexis Risk Solutions
+* Lumi Guide
 * Pivot Cloud
 * Standard Chartered
 * thoughtbot
 * Tsuru Capital
-* Facebook
+* Wellposed
 * Well-Typed
 
 ## Individuals
@@ -40,12 +43,15 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Alfredo Di Napoli
 * Alp Mestanogullari
 * Andres Löh
+* Bas van Dijk
 * Ben Ford
 * Ben Moseley
 * Blake Rain
+* Carter Schonwald
 * Chris Done
 * Chris Dornan
 * Christopher Reichert
+* David Johnson
 * Duncan Coutts
 * Edward Kmett
 * Flavio Villanustre
@@ -54,17 +60,21 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Ilya Zubkov
 * Ivan Perez
 * Jasper Van der Jeugt
+* Jesus Gonzalez
+* Junji Hashimoto
+* Jürgen Keck
 * Liyang HU
+* Luke Hoersten
 * Manuel Chakravarty
 * Mathieu Boespflug
 * Michael Baikov
 * Michael Snoyman
+* Miëtek Bak
 * Neil Mitchell
 * Pat Brisbin
 * Philipp Kant
 * Renzo Carbonara
+* Roel van Dijk
 * Simon Marlow
 * Vincent Hanquez
 * Neil Bartlett
-* David Johnson
-* Luke Hoersten
