@@ -56,6 +56,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Ilya Zubkov
 * Ivan Perez
 * Jasper Van der Jeugt
+* Jesus Gonzalez
 * Liyang HU
 * Manuel Chakravarty
 * Mathieu Boespflug
