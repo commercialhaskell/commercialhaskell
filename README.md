@@ -27,6 +27,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Keera Studios
 * Least Fixed
 * LexisNexis Risk Solutions
+* Lumi Guide
 * Pivot Cloud
 * Standard Chartered
 * thoughtbot
@@ -42,6 +43,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Alfredo Di Napoli
 * Alp Mestanogullari
 * Andres Löh
+* Bas van Dijk
 * Ben Ford
 * Ben Moseley
 * Blake Rain
@@ -68,6 +70,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Pat Brisbin
 * Philipp Kant
 * Renzo Carbonara
+* Roel van Dijk
 * Simon Marlow
 * Vincent Hanquez
 * Neil Bartlett
