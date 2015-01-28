@@ -21,6 +21,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 
 * Anchor
 * Borders
+* CircuitHub
 * Facebook
 * FP Complete
 * Hooky, Inc
@@ -78,9 +79,11 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Neil Mitchell
 * Pat Brisbin
 * Philipp Kant
+* Rehno Lindeque
 * Renzo Carbonara
 * Roel van Dijk
 * Ryan Booker
 * Sharif Olorin
 * Simon Marlow
+* Theunis Kotze
 * Vincent Hanquez
