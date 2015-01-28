@@ -47,6 +47,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Bas van Dijk
 * Ben Ford
 * Ben Moseley
+* Ben Sherman
 * Blake Rain
 * Carter Schonwald
 * Chris Done
@@ -69,15 +70,17 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Luke Hoersten
 * Manuel Chakravarty
 * Mathieu Boespflug
+* Mattias Lundell
 * Michael Baikov
 * Michael Snoyman
 * Miëtek Bak
+* Neil Bartlett
 * Neil Mitchell
 * Pat Brisbin
 * Philipp Kant
 * Renzo Carbonara
 * Roel van Dijk
+* Ryan Booker
 * Sharif Olorin
 * Simon Marlow
 * Vincent Hanquez
-* Neil Bartlett
