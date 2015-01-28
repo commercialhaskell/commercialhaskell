@@ -46,6 +46,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Bas van Dijk
 * Ben Ford
 * Ben Moseley
+* Ben Sherman
 * Blake Rain
 * Carter Schonwald
 * Chris Done
