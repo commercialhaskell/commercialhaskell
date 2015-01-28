@@ -71,12 +71,12 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Michael Baikov
 * Michael Snoyman
 * Miëtek Bak
+* Neil Bartlett
 * Neil Mitchell
 * Pat Brisbin
 * Philipp Kant
 * Renzo Carbonara
 * Roel van Dijk
+* Ryan Booker
 * Simon Marlow
 * Vincent Hanquez
-* Neil Bartlett
-* Ryan Booker
