@@ -19,6 +19,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 
 ## Companies
 
+* Anchor
 * Borders
 * Facebook
 * FP Complete
@@ -76,6 +77,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Philipp Kant
 * Renzo Carbonara
 * Roel van Dijk
+* Sharif Olorin
 * Simon Marlow
 * Vincent Hanquez
 * Neil Bartlett
