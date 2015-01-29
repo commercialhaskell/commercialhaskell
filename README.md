@@ -83,6 +83,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Michael Baikov
 * Michael Snoyman
 * Miëtek Bak
+* Moritz Angermann
 * Neil Bartlett
 * Neil Mitchell
 * Pat Brisbin
