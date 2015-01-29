@@ -13,7 +13,15 @@ The primary purpose here is to foster discussion and encourage collaboration. Th
 * Share information on requirements so that open-source contributors can focus their contributions in areas of greatest need or opportunity
 * Publicize Haskell successes (and available tools/solutions) both inside and outside the Haskell community
 
-The following is a list of members of the group. Everyone is welcome to be part of the mailing list and participate in the Wiki. If you'd like to join more officially, please send a pull request adding yourself or your company in the list below. There are no requirements - financial or otherwise - on members of the group.
+## FAQ
+
+  * Question: How is this different from the Industrial Haskell User Group (IHG)?
+  * Answer: To join the IHG you pay and that's joining into a pool of work which gets done. This model is good because it guarantees that things will get accomplished, but it also has its limitations. Commercial Haskell is free and has no paid for pool of work. Companies must figure out how they want to collaborate to accomplish common interests. The two groups are largely complimentary, and companies are encouraged to join both.
+
+
+## Membership
+
+The following is a list of members of the group. Everyone is welcome to be part of the mailing list and participate in the Wiki. If you'd like to join more officially, please send a pull request adding yourself or your company in the list below. There are no requirements - financial or otherwise - on members of the group. But you should be using Haskell in a commercial/industrial setting, interested in doing so, or interested in helping those who are.
 
 (Please try to keep the lists in alphabetical order.)
 
