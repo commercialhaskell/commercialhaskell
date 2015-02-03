@@ -29,6 +29,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 
 * Anchor
 * Borders
+* Chordify
 * CircuitHub
 * Facebook
 * FP Complete
@@ -53,6 +54,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Alfredo Di Napoli
 * Alp Mestanogullari
 * Andres Löh
+* Bas de Haas
 * Bas van Dijk
 * Ben Ford
 * Ben Moseley
@@ -73,6 +75,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Jasper Van der Jeugt
 * Jesus Gonzalez
 * Jon Sterling
+* José Pedro Magalhães
 * Junji Hashimoto
 * Jürgen Keck
 * Liyang HU
