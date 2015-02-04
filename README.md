@@ -59,6 +59,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Ben Ford
 * Ben Moseley
 * Ben Sherman
+* Bert Añasco
 * Blake Rain
 * Carter Schonwald
 * Chris Done
