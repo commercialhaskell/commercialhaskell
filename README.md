@@ -41,6 +41,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * LexisNexis Risk Solutions
 * Lumi Guide
 * Pivot Cloud
+* Silk
 * Standard Chartered
 * thoughtbot
 * Tsuru Capital
@@ -49,6 +50,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 
 ## Individuals
 
+* Adam Bergmark
 * Adam Gundry
 * Alex Lang
 * Alfredo Di Napoli
@@ -68,6 +70,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * David Johnson
 * Duncan Coutts
 * Edward Kmett
+* Erik Hesselink
 * Flavio Villanustre
 * Fuzz Leonard
 * Greg Weber
