@@ -94,6 +94,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Neil Bartlett
 * Neil Mitchell
 * Pat Brisbin
+* Patrick Mylund Nielsen
 * Philipp Kant
 * Rehno Lindeque
 * Renzo Carbonara
