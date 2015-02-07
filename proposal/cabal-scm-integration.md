@@ -1,7 +1,3 @@
-I like how we have 2 proposals that are attempting to provide end-to-end package security.
-
-Vincent and I were brainstorming about what benefits are possible from integrating with widely used source code management systems (SCM).
-
 SCM integration has the potential to
 
   * provide a direct and secure package transport mechanism
