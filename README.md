@@ -64,6 +64,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Bert Añasco
 * Blake Rain
 * Carter Schonwald
+* Chris Allen
 * Chris Done
 * Chris Dornan
 * Christopher Reichert
