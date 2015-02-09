@@ -56,6 +56,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Alfredo Di Napoli
 * Alp Mestanogullari
 * Andres Löh
+* Andy Gill
 * Bas de Haas
 * Bas van Dijk
 * Ben Ford
