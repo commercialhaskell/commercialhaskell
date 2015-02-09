@@ -84,6 +84,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Junji Hashimoto
 * Jürgen Keck
 * JP Smith
+* Kyle Marek-Spartz
 * Liyang HU
 * Luke Hoersten
 * Manuel Chakravarty
