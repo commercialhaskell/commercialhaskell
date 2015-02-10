@@ -47,9 +47,21 @@ The published SCM information (in addition to what is required in a cabal file) 
 
 # Signing proposal weaknesses
 
-## Security - compromised private key
+## Security
+
+### Compromised private key
 
 Done properly signing leaves one major attack point: the private key of the key pair. Adding the SCM attributes to the package data makes attacks much harder. We can verify the package contents against what is in the SCM. The attacker must also compromise something at the package SCM url. In the case of Github, Github is unlikely to be completely compromised. A more likely scenario is for an attacker to gain privilege to commit to a repo. In that case, the attacking commit will be very visibile.
+
+If a user's key is compromised than their SSH key may well be also. But revoking a PGP key is only possible if the user has their revokation key, whereas SSH keys are always revokable.
+
+### Visibility of an attack
+
+Github has a lot of visibility. But if the metadata stores can probably email the package authors when uploads occur.
+
+### Imitation and the Web of Trust
+
+The SCM and Github can help validate the web of trust that is going on.
 
 ## Usage or lack thereof
 
