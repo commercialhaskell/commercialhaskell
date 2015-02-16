@@ -16,7 +16,7 @@ The primary purpose here is to foster discussion and encourage collaboration. Th
 ## FAQ
 
   * Question: How is this different from the Industrial Haskell User Group (IHG)?
-  * Answer: To join the IHG you pay and that's joining into a pool of work which gets done. This model is good because it guarantees that things will get accomplished, but it also has its limitations. Commercial Haskell is free and has no paid for pool of work. Companies must figure out how they want to collaborate to accomplish common interests. The two groups are largely complimentary, and companies are encouraged to join both.
+  * Answer: To join the IHG you pay and that's joining into a pool of work which gets done. This model is good because it guarantees that things will get accomplished, but it also has its limitations. Commercial Haskell is free and has no paid for pool of work. Companies must figure out how they want to collaborate to accomplish common interests. The two groups are largely complementary, and companies are encouraged to join both.
 
 
 ## Membership
