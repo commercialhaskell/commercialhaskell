@@ -138,6 +138,13 @@ are generally busy allow him to release at least patch level changes without
 directly consulting you. For example, [see Roman's Haskell
 will](https://ro-che.info/articles/2014-02-08-my-haskell-will).
 
+__Communication continues up until release to Hackage.__ In most cases, simply
+merging in a pull request or pushing a commit to Github is insufficient. Most
+of your users will not be able to take advantage of an improvement in your
+library if it's just sitting in source control. When you make an improvement,
+and it's ready to be released, release it. And let users know that it's been
+released.
+
 __Be polite.__ With very rare exceptions, requesters honestly want to make your
 project better. Often times, that's obvious. In those cases, it's helpful to
 provide a quick comment like "thanks for the feedback." The difficult one is
