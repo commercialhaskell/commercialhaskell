@@ -133,6 +133,11 @@ or by having a well documented policy). This allows the requester to understand
 how best to push forward and improve his/her request or, alternatively, to drop
 the matter.
 
+__Have a backup maintainer that will take over if you are unavailable.__ If you
+are generally busy allow him to release at least patch level changes without
+directly consulting you. For example, [see Roman's Haskell
+will](https://ro-che.info/articles/2014-02-08-my-haskell-will).
+
 __Be polite.__ With very rare exceptions, requesters honestly want to make your
 project better. Often times, that's obvious. In those cases, it's helpful to
 provide a quick comment like "thanks for the feedback." The difficult one is
