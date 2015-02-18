@@ -74,6 +74,34 @@ I’m going to propose that we have a combination of *open editing* and
 *curation* to address all issues on the
 table.
 
+Concerns
+========
+
+To guide curators, we must be specific about what our concerns are for documentation.
+
+Quality
+-------
+
+Quality of documentation is a slippery notion, but curators need to have some concrete criteria to guide their work. Here is an attempt:
+
+- __Examples__: Are there relevant examples? Are the examples extensive/realistic enough to be useful for commercial-scale use?
+- __Accuracy__: Is the text true? Do examples and code snippets work as written?
+- __Timeliness__: Does the document reflect the current best practice, or has it been superceded? A "last reviewed by $NAME on $DATE" mechanism is probably needed here.
+- __Comprehensiveness__: If there are multiple best practices (e.g., `conduit` vs `pipes`), does it teach or provide at least a roadmap for learning all of them?
+- __Orthogonality__ (in the small): Do parts of this document retread topics covered better elsewhere?
+- __Connectedness__: Does the document stand alone, or does it offer suggested related topics?
+- __Difficulty__: Could this material be taught at a lower level of difficulty? Could it depend on a smaller set of prerequisite knowledge? Does it introduce concepts at the right pace?
+- __Tone__: Will reading this document make a beginner feel intimidated? Are words like "obviously" and "simply" used around concepts that are non-obvious and non-simple to potential readers? Is there gendered language or examples (e.g., using "mother" as a standin for "non-technical person")?
+- __Ownership__: Who are the authors of this document? Are they accessible and responsive to requests from curators? Could they identify other subject matter experts to share the maintenance burden?
+
+Discoverability
+---------------
+
+Mostly orthogonal to quality, discoverability is nonetheless a bit slippery, as it requires a curator who knows the documentation well to get in the heads of users who don't. Much of what we can do as curators is shape the search space of a new user. Some principles:
+
+- __Relevance__: Often one of the problems intermediate Haskellers hit is knowing where to go next to improve. We should provide focused outlines and roadmaps, even if we curate a broader set of resources. They should show people how to put one foot in front of the other rather than just showing them the breadth of the ocean before them.
+- __Orthogonality__ (in the large): Are we maintaining multiple resources on the same topic? This might be appropriate sometimes (e.g., two streaming data tutorials, one using `conduit` and one using `pipes`) but in a curated setting we should avoid this by combining documents. The current [haskell.org documentation page](https://www.haskell.org/documentation) has some problems here: if you want to learn Cabal, what do you click and why?
+
 Proposal 
 ========
 
