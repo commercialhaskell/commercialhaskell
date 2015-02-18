@@ -46,6 +46,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Standard Chartered
 * thoughtbot
 * Tsuru Capital
+* Wagon
 * Wellposed
 * Well-Typed
 
@@ -91,15 +92,19 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Liyang HU
 * Luke Hoersten
 * Manuel Chakravarty
+* Mark Daly
 * Mathieu Boespflug
+* Matt DeLand
 * Mattias Lundell
 * Michael Baikov
 * Michael Snoyman
 * Miëtek Bak
+* Mike Craig
 * Moritz Angermann
 * Neil Bartlett
 * Neil Mitchell
 * Pat Brisbin
+* Patrick Flor
 * Patrick Mylund Nielsen
 * Philipp Kant
 * Rehno Lindeque
