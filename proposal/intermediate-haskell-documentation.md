@@ -29,7 +29,7 @@ previous [Mezzo
 Haskell](https://github.com/fpco/mezzohaskell) initiative.)
 
 Imagine a developer who has no knowledge of Haskell. We have some
-very easy starting points: read RWH, real LYAH, look at some
+very easy starting points: read RWH, read LYAH, look at some
 introductory tutorials on School of Haskell, etc. At the end of these, a
 developer will typically have a pretty strong grasp of the basics of
 Haskell.
