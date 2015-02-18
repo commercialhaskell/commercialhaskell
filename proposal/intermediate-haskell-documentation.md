@@ -1,5 +1,5 @@
 Purpose 
-====================
+=======
 
 The Haskell community already has (and produces) many forms of
 documentation:
@@ -21,8 +21,8 @@ __Intermediate level, guided tutorials__
 One of my coworkers at FP Complete- Sal Daoud- will be making a *different*
 proposal for other missing documentation, but that is not included here.
 
-Intermediate level, guided tutorials 
-=================================================
+Overview
+========
 
 (For those familiar with it, this idea is not dissimilar from my
 previous [Mezzo
@@ -75,7 +75,7 @@ I’m going to propose that we have a combination of *open editing* and
 table.
 
 Proposal 
----------------------
+========
 
 The Commercial Haskell group (aka the SIG) will maintain a new repository
 (haskell-docs?). This will be a repository of
@@ -115,7 +115,7 @@ I’ll offer as a strawman the [Attribution 4.0
 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/) license.
 
 Possible improvements 
-----------------------------------
+=====================
 
 By using an open system of Git +
 Markdown, I’m hoping we could have many layers
