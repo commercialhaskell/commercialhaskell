@@ -41,6 +41,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * LexisNexis Risk Solutions
 * Lumi Guide
 * Microsoft
+* Picus Security
 * Pivot Cloud
 * Silk
 * Standard Chartered
@@ -59,6 +60,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Alp Mestanogullari
 * Andres Löh
 * Andy Gill
+* Aycan iRiCAN
 * Bas de Haas
 * Bas van Dijk
 * Ben Ford
