@@ -1,6 +1,6 @@
 Being a maintainer of an open source package inherently involves some level of
 communication. This communication can both be *outgoing* (e.g., announcements,
-tutorials, documentation) and *incoming* (receiving bug reports, feature
+tutorials, documentation) and *incoming* (e.g., receiving bug reports, feature
 requests, and patches). This document is intended to give some guidelines on
 how to do this in the most effective way possible.
 
@@ -28,7 +28,7 @@ going to contact you about it. This comes in many forms:
 * Patches (usually to address one of the above two issues).
 
 I'll generally assume projects are hosted on Github, and therefore use
-appropriate terminology (issue, commit and pull request), though the ideas
+appropriate terminology (issue, commit, and pull request), though the ideas
 translate directly to any place code is hosted.
 
 ### Goals
@@ -96,10 +96,10 @@ able to do so! Try to look at things with unbiased eyes and see if that's the
 case.
 
 __Document side communication/have a canonical place for discussion.__ This is
-probably where the previous point gets tripped up a lot. Imagine you're
-discussing an issue on Github with someone, and then you catch each other on
-IRC and discuss it for the next two hours. You come to the conclusion that,
-e.g., the bug report is valid, and that the other person will work on a bug
+probably where the previous point gets tripped up a lot. For example, imagine
+you're discussing an issue on Github with someone, and then you catch each
+other on IRC and discuss it for the next two hours. You come to the conclusion
+that the bug report is valid, and that the other person will work on a bug
 fix. Wonderful, that's real progress!
 
 But does the original requester know about this? Odds are no. It doesn't take
@@ -153,6 +153,6 @@ dealing with people who are not obviously trying to make the project better.
 of a difficult issue to deal with. Some suggestions:
 
 * Never retaliate in kind; take the higher ground
-* Don't allow their tone to take away from the points above. You should still acknowledge an issue, though you absolutely may decide to say "your bug report was not worded in a helpful way, doesn't provide meaningful information, and feels offensive. Please open a new issue with more details and a different tone and I'll be happy to help you."
+* Don't allow their tone to take away from the points above. You should still acknowledge an issue, though you absolutely may decide to say "your bug report was not worded in a helpful way, doesn't provide meaningful information, and feels offensive. Please open a new issue with more details and a different tone, and I'll be happy to help you."
 * People sometimes have a bad day; try to extend them some courtesy
 * Language barriers online are **massive**. Someone may not be a native speaker of the language you're using, and may imply something they didn't intend. We all know that text loses a lot of emotions, especially sarcasm. And I can admit that multiple times I've written on issues via my cell phone and put in typos that could have been read quite badly.
