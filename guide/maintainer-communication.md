@@ -33,8 +33,8 @@ translate directly to any place code is hosted.
 
 ### Goals
 
-You are intimately familiar with your code base. You likely have plans- whether
-documented or not- of where you want the project to head. You may know about
+You are intimately familiar with your code base. You likely have plans—whether
+documented or not—of where you want the project to head. You may know about
 reasons that certain features should or shouldn't be included. In other words:
 no one in the world is more knowledgeable about your project than you are!
 
