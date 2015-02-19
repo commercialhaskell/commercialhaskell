@@ -55,6 +55,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 
 * Adam Bergmark
 * Adam Gundry
+* Aistis Raulinaitis
 * Alex Lang
 * Alfredo Di Napoli
 * Alp Mestanogullari
