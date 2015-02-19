@@ -1,8 +1,8 @@
 Being a maintainer of an open source package inherently involves some level of
 communication. This communication can both be *outgoing* (e.g., announcements,
-tutorials, documentation) and *incoming* (e.g., receiving bug reports, feature
-requests, and patches). This document is intended to give some guidelines on
-how to do this in the most effective way possible.
+tutorials, and documentation) and *incoming* (e.g., receiving bug reports,
+feature requests, and patches). This document is intended to give some
+guidelines on how to do this in the most effective way possible.
 
 I should make it clear that this is an incredibly opinionated article, and
 unashamedly so. Many people like to manage their projects in different ways.
@@ -35,8 +35,9 @@ translate directly to any place code is hosted.
 
 You are intimately familiar with your code base. You likely have plans—whether
 documented or not—of where you want the project to head. You may know about
-reasons that certain features should or shouldn't be included. In other words:
-no one in the world is more knowledgeable about your project than you are!
+reasons on why certain features should or shouldn't be included. In other
+words: no one in the world is more knowledgeable about your project than you
+are!
 
 It's therefore important to remember that someone coming from the outside won't
 have all of that background knowledge. The goal of the communication process is
