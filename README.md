@@ -43,6 +43,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Microsoft
 * Picus Security
 * Pivot Cloud
+* Rheo Systems
 * Silk
 * Standard Chartered
 * thoughtbot
@@ -104,6 +105,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Michael Snoyman
 * Miëtek Bak
 * Mike Craig
+* Mikkel Christiansen
 * Moritz Angermann
 * Neil Bartlett
 * Neil Mitchell
