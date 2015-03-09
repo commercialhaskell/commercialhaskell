@@ -28,6 +28,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 ## Companies
 
 * Anchor
+* Applikativ
 * Borders
 * Chordify
 * CircuitHub
@@ -46,6 +47,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Rheo Systems
 * Silk
 * Standard Chartered
+* Systor Vest
 * thoughtbot
 * Tsuru Capital
 * Wagon
@@ -80,6 +82,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Duncan Coutts
 * Edward Kmett
 * Erik Hesselink
+* Finn Espen Gundersen
 * Flavio Villanustre
 * Fuzz Leonard
 * Greg Weber
