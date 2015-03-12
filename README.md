@@ -106,6 +106,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Mattias Lundell
 * Michael Baikov
 * Michael Snoyman
+* Michael Steele
 * Miëtek Bak
 * Mike Craig
 * Mikkel Christiansen
