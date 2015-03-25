@@ -33,6 +33,7 @@ __Problems__:
 
 __Solutions__:
 
+* [Getting Set Up](https://github.com/bitemyapp/learnhaskell/blob/master/README.md#getting-set-up)
 * Halcyon
 * Haskell Platform
 * LTS Haskell
