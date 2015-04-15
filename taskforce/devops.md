@@ -36,6 +36,32 @@ As people in the SIG write up information, please link to it from here
 
         docker run -it --rm -p 3000:3000 -v /var/www/html:/var/www/html:ro snoyberg/warp /usr/bin/warp -d /var/www/html
 
+#### Ideal Haskell Devops Stack
+These are not all written in haskell.
+* Build Pipeline
+	* Build: Bake
+	* Test: Bake
+	* Container Packaging: docker-hs?
+	* Application Packaging: ?
+	* Deploy: Propeller
+* Stack Creation
+	* Provisioning (Creation of compute resources): Propeller
+	* Configuration ( Compute -> ConfigState -> ConfiguredInstance ): Propeller 
+	* Consolidated Configuration State Management (How to see all the things configured): ?
+* Stack Managment
+	* Runtime Control / Remote Execution (How to change state after the stack has been deployed, salt does this): ?
+* Monitoring 
+	* System Monitoring: ?
+	* Application Monitoring: ?
+	* Metrics Consolidation: Riemann?
+	* Log Collection: ?
+	* Log Aggregation: ?
+	* Log Archiving: ?
+	* Long Term Log Analysis:
+	* Real Time Log Analysis: Riemann?
+	* Alerting
+
+
 #### Ideas for future content
 
 * Propellor
