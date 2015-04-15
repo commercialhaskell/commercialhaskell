@@ -121,6 +121,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Pat Brisbin
 * Patrick Flor
 * Patrick Mylund Nielsen
+* Pawel Stasiak
 * Philipp Kant
 * Rehno Lindeque
 * Rémi Vion
