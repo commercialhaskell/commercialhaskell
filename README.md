@@ -123,6 +123,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Patrick Mylund Nielsen
 * Philipp Kant
 * Rehno Lindeque
+* Rémi Vion
 * Remy Goldschmidt
 * Renzo Carbonara
 * Roel van Dijk
