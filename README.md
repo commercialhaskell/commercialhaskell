@@ -39,6 +39,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Infinipool
 * Iris Connect
 * Keera Studios
+* Kite & Lightning
 * Least Fixed
 * LexisNexis Risk Solutions
 * Lumi Guide
@@ -52,6 +53,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Systor Vest
 * thoughtbot
 * Tsuru Capital
+* VaryWell
 * Wagon
 * Wellposed
 * Well-Typed
@@ -93,6 +95,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Ian Graves
 * Ilya Zubkov
 * Ivan Perez
+* Jason Hickner
 * Jasper Van der Jeugt
 * Jesus Gonzalez
 * Jon Sterling
