@@ -46,6 +46,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Pivot Cloud
 * Rheo Systems
 * Silk
+* Soostone
 * Standard Chartered
 * Systor Vest
 * thoughtbot
@@ -114,6 +115,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Moritz Angermann
 * Neil Bartlett
 * Neil Mitchell
+* Ozgun Ataman
 * Pat Brisbin
 * Patrick Flor
 * Patrick Mylund Nielsen
