@@ -34,6 +34,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * CircuitHub
 * Facebook
 * FP Complete
+* Front Row Education
 * Hooky, Inc
 * Infinipool
 * Iris Connect
@@ -62,6 +63,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Adam Gundry
 * Aistis Raulinaitis
 * Alex Lang
+* Alexandr Kurilin
 * Alfredo Di Napoli
 * Alp Mestanogullari
 * Andres Löh
