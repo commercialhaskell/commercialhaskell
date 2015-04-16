@@ -39,20 +39,20 @@ As people in the SIG write up information, please link to it from here
 #### Ideal Haskell Devops Stack
 These are not all written in haskell.
 * Build Pipeline
-	* Build: Bake
-	* Test: Bake
+	* Build/Task: [Shake]
+	* Continuous Integration Test: [Bake]
 	* Container Packaging: docker-hs?
 	* Application Packaging: ?
-	* Deploy: Propeller
+	* Deploy: [Propellor]
 * Stack Creation
-	* Provisioning (Creation of compute resources): Propeller
-	* Configuration ( Compute -> ConfigState -> ConfiguredInstance ): Propeller 
+	* Provisioning (Creation of compute resources): [Propellor]
+	* Configuration ( Compute -> ConfigState -> ConfiguredInstance ): [Propellor] 
 	* Consolidated Configuration State Management (How to see all the things configured): ?
 * Stack Managment
 	* Runtime Control / Remote Execution (How to change state after the stack has been deployed, salt does this): ?
 * Monitoring 
 	* System Monitoring: ?
-	* Application Monitoring: ?
+	* Application Monitoring: [EKG]
 	* Metrics Consolidation: Riemann?
 	* Log Collection: ?
 	* Log Aggregation: ?
@@ -64,11 +64,19 @@ These are not all written in haskell.
 
 #### Ideas for future content
 
-* Propellor
-* Shake
+* [Propellor]
+* [Shake]
+* [Bake]
 * Bouncy
 * wai-crowd
 
 ### Projects
 
 * [haskell-scratch](https://registry.hub.docker.com/u/snoyberg/haskell-scratch/), a minimal Docker image containing some necessary shared libraries for shipping GHC-compiled applications
+
+
+
+[shake]: http://hackage.haskell.org/package/shake
+[bake]: http://hackage.haskell.org/package/bake
+[propellor]: http://hackage.haskell.org/package/propellor
+[ekg]: https://hackage.haskell.org/package/ekg
