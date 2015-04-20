@@ -40,6 +40,7 @@ These fixes are not intended to completely address any problem, simply to mitiga
 
 * Hackage should add SHA512 hashes for each tarball to the 00-index file so that downloads can be verified
 * cabal-install should be modified to use HTTPS instead of HTTP
+* Add a means via Hackage to verify identity of a user, either via a mechanism like OAuth, or by allowing users to add a GPG public key to their accounts that will be publicly viewable
 
 ### Long-term solutions
 
