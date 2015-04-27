@@ -94,12 +94,13 @@ others I'm unaware of).
 | Solution | Proposals | Status |
 |--------|-----------|--------|
 | Author package signing | [1][chris-signing] | beta |
-| Microservice infrastructure| [1][mathieu-microservices] | proposed |
-| Public audit log | [1][duncan-index-signing] [2][mathieu-index-signing] | proposed |
-| Index signing  | [1][mathieu-index-signing] | proposed |
+| Microservice infrastructure| [mb-microservices][mathieu-microservices] | proposed |
+| Public audit log | [wt-tuf][duncan-index-signing] [mb-stash][mathieu-index-signing] | proposed |
+| Index signing  | [mb-stash][mathieu-index-signing] | proposed |
 
 [chris-signing]: https://github.com/commercialhaskell/commercialhaskell/wiki/Package-signing-detailed-propsal
 [duncan-index-signing]: http://www.well-typed.com/blog/2015/04/improving-hackage-security/
+[mathieu-microservices]: https://www.fpcomplete.com/blog/2015/03/composable-community-infrastructure
 [mathieu-index-signing]: https://github.com/commercialhaskell/commercialhaskell/wiki/Hackage-index-signing-proposal
 
 To clarify, each solution above is described more fully below.
