@@ -1,22 +1,23 @@
 ## Improved Hackage security
 
-This page is intended to collect information about:
+This page is intended to collect information and coordinate actions around the following topics:
 
-* Current shortcomings of the Hackage/cabal-install combination from a security perspective
+* Security concerns regarding the current Hackage/cabal-install service/toolchain combination
 * Possible short term mitigations of these security flaws
 * Long term strategies for more secure systems
 
 ### Prior work
 
-This page is built on both prior proposals and discussions in mailing lists. If
-there is a discussion or proposal that is not mentioned, please add it here
-(and try to keep it chronoligcal).
+Hackage and security has been a recurring topic of conversation on mailing lists.
+Proposals have already been formulated to address specific threats.
+The list below is an inventory of such discussions.
+If there is a discussion or proposal that is not mentioned, please add it here (and try to keep it chronoligcal).
 
-* [Package signing detailed proposal](https://github.com/commercialhaskell/commercialhaskell/wiki/Package-signing-detailed-propsal) Wiki page
-* [Our composable community infrastructure](https://www.fpcomplete.com/blog/2015/03/composable-community-infrastructure) blog post
+* [Package signing detailed proposal](https://github.com/commercialhaskell/commercialhaskell/wiki/Package-signing-detailed-propsal) Wiki page (authors: Chris Done)
+* [Our composable community infrastructure](https://www.fpcomplete.com/blog/2015/03/composable-community-infrastructure) blog post (authors: Mathieu Boespflug)
     * [Reddit discussion](http://www.reddit.com/r/haskell/comments/30dfxi/fpcomplete_blog_our_composable_community/)
-* [Improvements to package hosting and security](https://groups.google.com/d/msg/commercialhaskell/PTbC0p_YFvk/8XqS8wDxgqEJ) mailing list thread
-* [Improving Hackage Security](http://www.well-typed.com/blog/2015/04/improving-hackage-security/) blog post
+* [Improvements to package hosting and security](https://groups.google.com/d/msg/commercialhaskell/PTbC0p_YFvk/8XqS8wDxgqEJ) mailing list thread (authors: many)
+* [Improving Hackage Security](http://www.well-typed.com/blog/2015/04/improving-hackage-security/) blog post (authors: Duncan Coutts and Austin Seipp)
     * [Reddit discussion](http://www.reddit.com/r/haskell/comments/32sezy/ongoing_work_to_improve_hackage_security/)
 
 ### High level goals
@@ -24,18 +25,20 @@ there is a discussion or proposal that is not mentioned, please add it here
 There are approximately three goals that various people are trying to achieve.
 These goals are interconnected, but decompose fairly nicely:
 
-1. More reliable hosting of our community infrastructure (in particular package tarballs and the package index)
-2. Authors package signing, to provide security against a compomise of Hackage server or a MITM attack during the upload process
-3. Index signing, to provide a more secure mechanism for end users to retrieve packages and metadata from Hackage
+1. Higher availability and more reliable hosting of our community infrastructure (in particular package tarballs and the package index).
+2. Certification of provenance, to guarantee that a package tarball really was created by a trusted party (this is what package signing by authors is about).
+3. Certification of freshness (this is what package index signing is about), to
+  1. guarantee that package updates really are the latest ones including fixes to all known vulnerabilities, or to detect when this is not the case;
+  2. make it possible to guarantee that package data and metadata served by untrusted mirrors is the same as that served by Hackage itself (modulo a small lag window).
 
 There's been quite a bit of confusion around (2) and (3). While solutions to
 these can overlap, the goals are quite different, and conflation of these two
-goals seems to have led to a lot of confusion in this discussion. To try and make the distinction quite clear:
+goals seems to have led to a lot of miscommunications in this discussion. To try and make the distinction quite clear:
 
 * When authors sign packages, it is possible to verify the a single package was in fact signed off on by a specific person. This prevents an intermediate party from injecting a different package in its place. For example, if Edward Kmett signs lens-4.9, a user can verify that the lens he/she downloaded from Hackage was in fact signed by Edward, and was not a forgery uploaded by someone else.
-* With index signing, we are providing a secure means of transmitting metadata about all packages from the server (either Hackage, or a mirror of it) to an end user.
+* With index signing, a user can tell whether `cabal update` will pull the latest set of package metadata, whether from Hackage or a mirror. A user can also tell whether an attacker has attempted to roll back Hackage to a previous version. This is important because a MITM could in theory block a user from seeing the latest package metadata, which might include updates to known vulnerabilities that the attacker wants to avoid the user from installing. Further, index signing makes it possible to trust downloads from any mirror *as much as (but no more than)* downloads from Hackage, even when downloading package tarballs that were not signed by the author. However, it does not fully protect against a Hackage compromise. If Hackage is compromised, then an attacker could still inject malicious package tarballs if the original authors didn't sign all their uploads.
 
-To be clear, these two signing systems *compliment* each other instead of competing with each other. With only package signing, for example, a nefarious server could simply not provide a bugfixed version of lens, and continue to distribute an older version with a known vulnerability. With only index signing, for example, there is no protection against compromise in the package upload process to the Hackage server itself.
+To be clear, these two signing systems *complement* each other instead of competing with each other. For example, with only package signing, a nefarious server could simply not provide a bugfixed version of lens, and continue to distribute an older (signed) version with a known vulnerability. With only index signing, there is no protection against Hackage being compromised, or against a MITM attack on the package author while he/she is uploading a new package tarball to Hackage.
 
 ### Current shortcomings
 
@@ -50,7 +53,7 @@ To be clear, these two signing systems *compliment* each other instead of compet
 * Password compromise: standard weaknesses of any password based system regarding password stealing/guessing/social engineering
 * There is little to no insight into how a package (or revision of a cabal file) become accepted into Hackage, and therefore external verification of the index or tarballs is all but impossible
     * We have a Hackage username for each upload/revision, but there's no way to verify ownership of a Hackage username besides trying to log into the system
-    * We don't know *why* an action was alloed. Is the user an admin? a maintainer? a trustee? How can we see the historical log of changes to these statuses?
+    * We don't know *why* an action was allowed. Is the user an admin? a maintainer? a trustee? How can we see the historical log of changes to these statuses?
 
 ### Side goals
 
