@@ -136,5 +136,6 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Sharif Olorin
 * Simon Marlow
 * Theunis Kotze
+* Toby Goodwin
 * Tristan Webb
 * Vincent Hanquez
