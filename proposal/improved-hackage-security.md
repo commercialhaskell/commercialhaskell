@@ -27,15 +27,15 @@ These goals are interconnected, but decompose fairly nicely:
 
 1. Higher availability and more reliable hosting of our community infrastructure (in particular package tarballs and the package index).
 2. Certification of provenance, to guarantee that a package tarball really was created by a trusted party (this is what package signing by authors is about).
-3. Certification of freshness (this is what package index signing is about), to
-  1. guarantee that package updates really are the latest ones including fixes to all known vulnerabilities, or to detect when this is not the case;
-  2. make it possible to guarantee that package data and metadata served by untrusted mirrors is the same as that served by Hackage itself (modulo a small lag window).
+3. Certification of freshness (this is what package index signing is about),
+  1. to guarantee that package updates really are the latest ones including fixes to all known vulnerabilities, or to detect when this is not the case;
+  2. to make it possible to guarantee that package data and metadata served by untrusted mirrors is the same as that served by Hackage itself (modulo a small lag window).
 
 There's been quite a bit of confusion around (2) and (3). While solutions to
 these can overlap, the goals are quite different, and conflation of these two
 goals seems to have led to a lot of miscommunications in this discussion. To try and make the distinction quite clear:
 
-* When authors sign packages, it is possible to verify the a single package was in fact signed off on by a specific person. This prevents an intermediate party from injecting a different package in its place. For example, if Edward Kmett signs lens-4.9, a user can verify that the lens he/she downloaded from Hackage was in fact signed by Edward, and was not a forgery uploaded by someone else.
+* When authors sign packages, it is possible to verify that a single package was in fact signed off on by a specific person. This prevents an intermediate party from injecting a different package in its place. For example, if Edward Kmett signs lens-4.9, a user can verify that the lens he/she downloaded from Hackage was in fact signed by Edward, and was not a forgery uploaded by someone else.
 * With index signing, a user can tell whether `cabal update` will pull the latest set of package metadata, whether from Hackage or a mirror. A user can also tell whether an attacker has attempted to roll back Hackage to a previous version. This is important because a MITM could in theory block a user from seeing the latest package metadata, which might include updates to known vulnerabilities that the attacker wants to avoid the user from installing. Further, index signing makes it possible to trust downloads from any mirror *as much as (but no more than)* downloads from Hackage, even when downloading package tarballs that were not signed by the author. However, it does not fully protect against a Hackage compromise. If Hackage is compromised, then an attacker could still inject malicious package tarballs if the original authors didn't sign all their uploads.
 
 To be clear, these two signing systems *complement* each other instead of competing with each other. For example, with only package signing, a nefarious server could simply not provide a bugfixed version of lens, and continue to distribute an older (signed) version with a known vulnerability. With only index signing, there is no protection against Hackage being compromised, or against a MITM attack on the package author while he/she is uploading a new package tarball to Hackage.
@@ -44,7 +44,7 @@ To be clear, these two signing systems *complement* each other instead of compet
 
 * Reliability: if Hackage goes down, no one can download packages or the package index
     * From a security standpoint: we can't currently have untrusted mirrors due to lack of any hash/signature mechanism
-* Single point of failure: if Hackage (either the software of the hosting infrastructure) is hacked, the attacker has full ability to distribute malicious code
+* Single point of failure: if Hackage (either the software or the hosting infrastructure) is hacked, the attacker has full ability to distribute malicious code
 * Man in the middle (download side): since traffic between cabal-install and Hackage is plain text, any man in the middle may inject malicious code to the downloaded packages
 * Man in the middle (upload side): when uploading a package, traffic is also unencrypted. A man in the middle may replace the payload with nefarious code and compromise the entire package database
 * There is no way of knowing whether the data being pulled from Hackage is really the latest. An attacker (via MITM or server compromise) could be serving legitimate unadelterated but old packages with known vulnerabilities, or preventing a user from seeing that there are later versions that fix some vulnerability.
@@ -111,4 +111,4 @@ Each such design should be listed as a separate proposal.
 * **Microservice architecture:** Separate out various pieces of infrastructure, such as package hosting, index hosting, uploading, a web interface, etc, to simplify, allow us to make the core required components more robust, and reduce attack surface area on those components
 * **Public audit log:** Make all actions around packages a publicly viewable log (e.g. as a Git repository). All actions are stored in files which are signed by relevant parties. A central authority would delegate permissions to individuals to do different things, such that the central authority has relatively few actions to take, and individual key compromises do not affect the entire ecosystem, and can be mitigated by revoking rights.
 * **Index signing:** according to the conceptual framework specificied in "The Update Framework" (TUF).
-    * Note that the initial work around TUF proposed by Well Typed only covers index signing. TUF also specifies how to do package signing as well. Any proposal to do would go under "Author package signing".
+    * Note that the initial work around TUF proposed by Well Typed only covers index signing. TUF also specifies how to do package signing as well. Any proposal to do so would go under "Author package signing".
