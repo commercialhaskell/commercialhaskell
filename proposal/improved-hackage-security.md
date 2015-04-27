@@ -44,15 +44,16 @@ To be clear, these two signing systems *complement* each other instead of compet
 
 * Reliability: if Hackage goes down, no one can download packages or the package index
     * From a security standpoint: we can't currently have untrusted mirrors due to lack of any hash/signature mechanism
-* Single point of failure: if Hackage (either the software of the hosting infrastructure) is hacked, the attacker has full ability to distribte malicious code
+* Single point of failure: if Hackage (either the software of the hosting infrastructure) is hacked, the attacker has full ability to distribute malicious code
 * Man in the middle (download side): since traffic between cabal-install and Hackage is plain text, any man in the middle may inject malicious code to the downloaded packages
 * Man in the middle (upload side): when uploading a package, traffic is also unencrypted. A man in the middle may replace the payload with nefarious code and compromise the entire package database
 * There is no way of knowing whether the data being pulled from Hackage is really the latest. An attacker (via MITM or server compromise) could be serving legitimate unadelterated but old packages with known vulnerabilities, or preventing a user from seeing that there are later versions that fix some vulnerability.
 * Either by compromising the server or via MITM, an attacker can convince clients to download arbitrary amounts of data, filling up their disk, or to hang potentially indefinitely (though the latter is a tooling problem).
 * Eavesdropping: uploads are secured by HTTP digest security over HTTP. When performing uploads from an unsecured location (e.g., open WiFi in an airport), those headers can be sniffed and possibly spoofed
 * Password compromise: standard weaknesses of any password based system regarding password stealing/guessing/social engineering
-* There is little to no insight into how a package (or revision of a cabal file) become accepted into Hackage, and therefore external verification of the index or tarballs is all but impossible
+* No audit: there is little to no insight into how a package (or revision of a cabal file) becomes accepted into Hackage, and therefore external verification of the index or tarballs is all but impossible
     * We have a Hackage username for each upload/revision, but there's no way to verify ownership of a Hackage username besides trying to log into the system
+    * Even then, we have no guarantee that this log hasn't been tampered with, either due to a bug or by an attacker.
     * We don't know *why* an action was allowed. Is the user an admin? a maintainer? a trustee? How can we see the historical log of changes to these statuses?
 
 ### Side goals
