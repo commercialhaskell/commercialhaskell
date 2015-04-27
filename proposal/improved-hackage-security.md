@@ -101,7 +101,7 @@ others I'm unaware of).
 [chris-signing]: https://github.com/commercialhaskell/commercialhaskell/wiki/Package-signing-detailed-propsal
 [duncan-index-signing]: http://www.well-typed.com/blog/2015/04/improving-hackage-security/
 [mathieu-microservices]: https://www.fpcomplete.com/blog/2015/03/composable-community-infrastructure
-[mathieu-index-signing]: https://github.com/commercialhaskell/commercialhaskell/wiki/Hackage-index-signing-proposal
+[mathieu-index-signing]: https://github.com/commercialhaskell/commercialhaskell/wiki/Hackage-index-signing-via-git-proposal
 
 To clarify, each solution above is described more fully below.
 There are multiple technical realizations (designs) possible in support of each solution above.
