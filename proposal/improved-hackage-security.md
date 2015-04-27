@@ -26,7 +26,9 @@ There are approximately three goals that various people are trying to achieve.
 These goals are interconnected, but decompose fairly nicely:
 
 1. Higher availability and more reliable hosting of our community infrastructure (in particular package tarballs and the package index).
-2. Certification of provenance, to guarantee that a package tarball really was created by a trusted party (this is what package signing by authors is about).
+2. Certification of provenance
+  1. to guarantee that a package tarball really was created by a trusted party (this is what package signing by authors is about).
+  2. to connect release packaged code back to the source repository
 3. Certification of freshness (this is what package index signing is about),
   1. to guarantee that package updates really are the latest ones including fixes to all known vulnerabilities, or to detect when this is not the case;
   2. to make it possible to guarantee that package data and metadata served by untrusted mirrors is the same as that served by Hackage itself (modulo a small lag window).
@@ -55,6 +57,7 @@ To be clear, these two signing systems *complement* each other instead of compet
     * We have a Hackage username for each upload/revision, but there's no way to verify ownership of a Hackage username besides trying to log into the system
     * Even then, we have no guarantee that this log hasn't been tampered with, either due to a bug or by an attacker.
     * We don't know *why* an action was allowed. Is the user an admin? a maintainer? a trustee? How can we see the historical log of changes to these statuses?
+* No connection back to the source repository. Trust in another party is enhanced if it is possible to audit who the committers are for a change and the reasons (commit messages) for changes.
 
 ### Side goals
 
