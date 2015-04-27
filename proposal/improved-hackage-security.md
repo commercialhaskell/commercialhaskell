@@ -98,8 +98,8 @@ others I'm unaware of).
 |--------|-----------|--------|
 | Author package signing | [cd-signing][chris-signing] | beta |
 | Microservice infrastructure| [mb-microservices][mathieu-microservices] | proposed |
-| Public audit log | [wt-tuf][duncan-index-signing], [mb-stash][mathieu-index-signing] | proposed |
-| Index signing  | [mb-stash][mathieu-index-signing] | proposed |
+| Public audit log | [mb-stash][mathieu-index-signing] | proposed |
+| Index signing  | [wt-tuf][duncan-index-signing], [mb-stash][mathieu-index-signing] | proposed |
 
 [chris-signing]: https://github.com/commercialhaskell/commercialhaskell/wiki/Package-signing-detailed-propsal
 [duncan-index-signing]: http://www.well-typed.com/blog/2015/04/improving-hackage-security/
