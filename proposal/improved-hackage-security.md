@@ -91,8 +91,19 @@ because the authors have not elected to make that proposal public yet.
 The relevant parties should feel free to add that proposal (and
 others I'm unaware of).
 
+| Solution | Proposals | Status |
+|--------|-----------|--------|
+| Author package signing | | |
+| Microservice infrastructure| | |
+| Public audit log | | |
+| Index signing  | | |
+
+To clarify, each solution above is described more fully below.
+There are multiple technical realizations (designs) possible in support of each solution above.
+Each such design should be listed as a separate proposal.
+
 * Add cryptographic signing of packages. Authors will sign their packages and store the signatures in a publicly downloadable place. End users can then verify those signatures. (Tooling would automated this.)
 * Separate out various pieces of infrastructure, such as package hosting, index hosting, uploading, a web interface, etc, to simplify, allow us to make the core required components more robust, and reduce attack surface area on those components
 * Make all actions around packages a publicly viewable log via a Git repository. All actions are stored in files which are signed by relevant parties. A central authority would delegate permissions to individuals to do different things, such that the central authority has relatively few actions to take, and individual key compromises do not affect the entire ecosystem, and can be mitigated by revoking rights.
-* Add support for "The Update Framework" (TUF) to Hackage.
+* Hackage Index signing, according to the conceptual framework specificied in "The Update Framework" (TUF).
     * Note that the initial work around TUF proposed by Well Typed only covers index signing, though there is a possibility to add package signing as well in the future.
