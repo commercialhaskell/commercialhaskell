@@ -19,6 +19,24 @@ there is a discussion or proposal that is not mentioned, please add it here
 * [Improving Hackage Security](http://www.well-typed.com/blog/2015/04/improving-hackage-security/) blog post
     * [Reddit discussion](http://www.reddit.com/r/haskell/comments/32sezy/ongoing_work_to_improve_hackage_security/)
 
+### High level goals
+
+There are approximately three goals that various people are trying to achieve.
+These goals are interconnected, but decompose fairly nicely:
+
+1. More reliable hosting of our community infrastructure (in particular package tarballs and the package index)
+2. Authors package signing, to provide security against a compomise of Hackage server or a MITM attack during the upload process
+3. Index signing, to provide a more secure mechanism for end users to retrieve packages and metadata from Hackage
+
+There's been quite a bit of confusion around (2) and (3). While solutions to
+these can overlap, the goals are quite different, and conflation of these two
+goals seems to have led to a lot of confusion in this discussion. To try and make the distinction quite clear:
+
+* When authors sign packages, it is possible to verify the a single package was in fact signed off on by a specific person. This prevents an intermediate party from injecting a different package in its place. For example, if Edward Kmett signs lens-4.9, a user can verify that the lens he/she downloaded from Hackage was in fact signed by Edward, and was not a forgery uploaded by someone else.
+* With index signing, we are providing a secure means of transmitting metadata about all packages from the server (either Hackage, or a mirror of it) to an end user.
+
+To be clear, these two signing systems *compliment* each other instead of competing with each other. With only package signing, for example, a nefarious server could simply not provide a bugfixed version of lens, and continue to distribute an older version with a known vulnerability. With only index signing, for example, there is no protection against compromise in the package upload process to the Hackage server itself.
+
 ### Current shortcomings
 
 * Reliability: if Hackage goes down, no one can download packages or the package index
@@ -33,6 +51,18 @@ there is a discussion or proposal that is not mentioned, please add it here
 * There is little to no insight into how a package (or revision of a cabal file) become accepted into Hackage, and therefore external verification of the index or tarballs is all but impossible
     * We have a Hackage username for each upload/revision, but there's no way to verify ownership of a Hackage username besides trying to log into the system
     * We don't know *why* an action was alloed. Is the user an admin? a maintainer? a trustee? How can we see the historical log of changes to these statuses?
+
+### Side goals
+
+In addition to the above points, there are at least a
+few other goals in the community right now, such as:
+
+* Offline access to the package database, for situations where downloading from Hackage/an S3 mirror are impossible
+* Have some kind of versioning of the package database, to say things like "this is built on top of Hackage version X"
+
+There are certainly other goals that people have in mind, and it would be great
+to mention those explicitly so we can try to account for them when making any
+decisions.
 
 ### Short-term fixes
 
@@ -58,4 +88,5 @@ here are not necessary mutually exclusive.
 * Add cryptographic signing of packages. Authors will sign their packages and store the signatures in a publicly downloadable place. End users can then verify those signatures. (Tooling would automated this.)
 * Separate out various pieces of infrastructure, such as package hosting, index hosting, uploading, a web interface, etc, to simplify, allow us to make the core required components more robust, and reduce attack surface area on those components
 * Make all actions around packages a publicly viewable log via a Git repository. All actions are stored in files which are signed by relevant parties. A central authority would delegate permissions to individuals to do different things, such that the central authority has relatively few actions to take, and individual key compromises do not affect the entire ecosystem, and can be mitigated by revoking rights.
-* Add support for "The Update Framework" to Hackage (apologies, I'm hazy on the details of what is actually proposed, hopefully others in the know will fill this in).
+* Add support for "The Update Framework" (TUF) to Hackage.
+    * Note that the initial work around TUF proposed by Well Typed only covers index signing, though there is a possibility to add package signing as well in the future.
