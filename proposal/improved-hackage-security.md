@@ -62,6 +62,7 @@ In addition to the above points, there are at least a
 few other goals in the community right now, such as:
 
 * Offline access to the package database, for situations where downloading from Hackage/an S3 mirror are impossible
+* Efficient incremental synchronization of the package database (aka `cabal update`)
 * Have some kind of versioning of the package database, to say things like "this is built on top of Hackage version X"
 
 There are certainly other goals that people have in mind, and it would be great
@@ -82,12 +83,13 @@ There are various ideas at play already. The bullets are not intended to be
 full representations of the proposals, but rather high level summaries. We
 should continue to expand this page with more details going forward.
 
-I am *not* including one proposal I'm aware of since it hasn't been made
-publicly yet. The relevant parties should feel free to add that proposal (and
-others I'm unaware of).
-
-Also note: despite the tone of some of the above-linked discussions, proposals
+Note: despite the tone of some of the above-linked discussions, proposals
 here are not necessary mutually exclusive.
+
+TODO: there is at least one proposal out there, that has not been listed here,
+because the authors have not elected to make that proposal public yet.
+The relevant parties should feel free to add that proposal (and
+others I'm unaware of).
 
 * Add cryptographic signing of packages. Authors will sign their packages and store the signatures in a publicly downloadable place. End users can then verify those signatures. (Tooling would automated this.)
 * Separate out various pieces of infrastructure, such as package hosting, index hosting, uploading, a web interface, etc, to simplify, allow us to make the core required components more robust, and reduce attack surface area on those components
