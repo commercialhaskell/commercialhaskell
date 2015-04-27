@@ -93,9 +93,9 @@ others I'm unaware of).
 
 | Solution | Proposals | Status |
 |--------|-----------|--------|
-| Author package signing | [1][chris-signing] | beta |
+| Author package signing | [cd-signing][chris-signing] | beta |
 | Microservice infrastructure| [mb-microservices][mathieu-microservices] | proposed |
-| Public audit log | [wt-tuf][duncan-index-signing] [mb-stash][mathieu-index-signing] | proposed |
+| Public audit log | [wt-tuf][duncan-index-signing], [mb-stash][mathieu-index-signing] | proposed |
 | Index signing  | [mb-stash][mathieu-index-signing] | proposed |
 
 [chris-signing]: https://github.com/commercialhaskell/commercialhaskell/wiki/Package-signing-detailed-propsal
