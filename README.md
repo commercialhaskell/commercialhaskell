@@ -135,6 +135,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Ryan Booker
 * Sharif Olorin
 * Simon Marlow
+* Steven Shaw
 * Theunis Kotze
 * Toby Goodwin
 * Tristan Webb
