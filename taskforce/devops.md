@@ -69,6 +69,7 @@ These are not all written in haskell.
 * [Bake]
 * Bouncy
 * wai-crowd
+* [angel](https://github.com/MichaelXavier/Angel)
 
 ### Projects
 
