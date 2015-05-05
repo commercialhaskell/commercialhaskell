@@ -70,7 +70,7 @@ These are not all written in haskell.
 * Bouncy
 * wai-crowd
 * [angel](https://github.com/MichaelXavier/Angel)
-
+* List of integrations that are avalible to haskell (ala. chef, puppet, docker-api...)
 ### Projects
 
 * [haskell-scratch](https://registry.hub.docker.com/u/snoyberg/haskell-scratch/), a minimal Docker image containing some necessary shared libraries for shipping GHC-compiled applications
