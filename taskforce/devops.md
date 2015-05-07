@@ -36,6 +36,8 @@ As people in the SIG write up information, please link to it from here
 
         docker run -it --rm -p 3000:3000 -v /var/www/html:/var/www/html:ro snoyberg/warp /usr/bin/warp -d /var/www/html
 
+*   [Haskell Web Server in a 5MB Docker Image](https://www.fpcomplete.com/blog/2015/05/haskell-web-server-in-5mb)
+
 #### Ideal Haskell Devops Stack
 These are not all written in haskell.
 * Build Pipeline
