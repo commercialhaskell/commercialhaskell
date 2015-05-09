@@ -35,6 +35,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Facebook
 * FP Complete
 * Front Row Education
+* Helium Systems
 * Hooky, Inc
 * Infinipool
 * Iris Connect
