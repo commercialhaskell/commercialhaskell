@@ -44,6 +44,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * LexisNexis Risk Solutions
 * Lumi Guide
 * Microsoft
+* MyFansDemand
 * Picus Security
 * Pivot Cloud
 * Rheo Systems
@@ -83,6 +84,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Chris Done
 * Chris Dornan
 * Christopher Reichert
+* Colin King
 * David Johnson
 * Dennis J. McWherter, Jr.
 * Duncan Coutts
