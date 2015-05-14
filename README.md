@@ -52,6 +52,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Silk
 * Soostone
 * Standard Chartered
+* Suite Solutions
 * Systor Vest
 * thoughtbot
 * Tsuru Capital
@@ -144,3 +145,4 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Toby Goodwin
 * Tristan Webb
 * Vincent Hanquez
+* Yitz Gale
