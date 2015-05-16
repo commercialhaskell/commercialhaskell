@@ -118,6 +118,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Matt DeLand
 * Mattias Lundell
 * Michael Baikov
+* Michael Gilliland
 * Michael Snoyman
 * Michael Steele
 * Miëtek Bak
