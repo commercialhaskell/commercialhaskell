@@ -30,6 +30,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Anchor
 * Applikativ
 * Borders
+* Capital Match
 * Chordify
 * CircuitHub
 * Facebook
@@ -73,6 +74,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Alp Mestanogullari
 * Andres Löh
 * Andy Gill
+* Arnaud Bailly
 * Aycan iRiCAN
 * Bas de Haas
 * Bas van Dijk
@@ -147,4 +149,5 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Toby Goodwin
 * Tristan Webb
 * Vincent Hanquez
+* Willem van den Ende
 * Yitz Gale
