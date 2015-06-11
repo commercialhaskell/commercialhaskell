@@ -34,6 +34,7 @@ __Problems__:
 __Solutions__:
 
 * [Getting Set Up](https://github.com/bitemyapp/learnhaskell/blob/master/README.md#getting-set-up)
+* [The Haskell Tool Stack](https://github.com/commercialhaskell/stack)
 * Halcyon
 * Haskell Platform
 * LTS Haskell
