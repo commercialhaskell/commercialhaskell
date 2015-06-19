@@ -33,6 +33,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Capital Match
 * Chordify
 * CircuitHub
+* Elsen
 * Facebook
 * FP Complete
 * Front Row Education
@@ -144,6 +145,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Ryan Booker
 * Sharif Olorin
 * Simon Marlow
+* Stephen Diehl
 * Steven Shaw
 * Theunis Kotze
 * Toby Goodwin
