@@ -55,6 +55,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Soostone
 * Standard Chartered
 * Suite Solutions
+* SumAll
 * Systor Vest
 * thoughtbot
 * Tsuru Capital
@@ -69,6 +70,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Adam Foltzer
 * Adam Gundry
 * Aistis Raulinaitis
+* Alex Babkin
 * Alex Lang
 * Alexandr Kurilin
 * Alfredo Di Napoli
@@ -96,9 +98,11 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Edward Kmett
 * Eric Fode
 * Erik Hesselink
+* Ethan Glasser-Camp
 * Finn Espen Gundersen
 * Flavio Villanustre
 * Fuzz Leonard
+* Giovanni Cappellotto
 * Greg Weber
 * Ian Graves
 * Ilya Zubkov
@@ -143,6 +147,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Rémi Vion
 * Remy Goldschmidt
 * Renzo Carbonara
+* Rick Owens
 * Roel van Dijk
 * Ryan Booker
 * Sharif Olorin
