@@ -121,6 +121,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Matt DeLand
 * Mattias Lundell
 * Michael Baikov
+* Michael Boone
 * Michael Gilliland
 * Michael Snoyman
 * Michael Steele
