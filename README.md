@@ -131,6 +131,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Moritz Angermann
 * Neil Bartlett
 * Neil Mitchell
+* Njagi Mwaniki
 * Ozgun Ataman
 * Pat Brisbin
 * Patrick Flor
