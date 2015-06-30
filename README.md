@@ -58,6 +58,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * SumAll
 * Systor Vest
 * thoughtbot
+* Tree.is
 * Tsuru Capital
 * VaryWell
 * Wagon
@@ -119,6 +120,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Kyle Marek-Spartz
 * Liyang HU
 * Luke Hoersten
+* Luke Iannini
 * Manuel Chakravarty
 * Mark Daly
 * Mathieu Boespflug
