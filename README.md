@@ -52,6 +52,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Pivot Cloud
 * Rheo Systems
 * Silk
+* Snowdrift.coop
 * Soostone
 * Standard Chartered
 * Suite Solutions
@@ -87,6 +88,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Ben Sherman
 * Bert Añasco
 * Blake Rain
+* Bryan Richter
 * Carter Schonwald
 * Chris Allen
 * Chris Done
