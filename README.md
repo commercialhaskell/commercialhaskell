@@ -96,6 +96,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Christopher Reichert
 * Colin King
 * David Johnson
+* Denis Kasak
 * Dennis J. McWherter, Jr.
 * Duncan Coutts
 * Edward Kmett
