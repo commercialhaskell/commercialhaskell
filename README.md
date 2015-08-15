@@ -158,6 +158,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Roel van Dijk
 * Ryan Booker
 * Sharif Olorin
+* Sibi Prabakaran
 * Simon Marlow
 * Stephen Diehl
 * Steven Shaw
