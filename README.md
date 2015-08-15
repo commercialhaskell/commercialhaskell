@@ -106,6 +106,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Ethan Glasser-Camp
 * Finn Espen Gundersen
 * Flavio Villanustre
+* Franklin Chen
 * Fuzz Leonard
 * Giovanni Cappellotto
 * Greg Weber
