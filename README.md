@@ -62,6 +62,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Tree.is
 * Tsuru Capital
 * VaryWell
+* VFILES
 * Wagon
 * Wellposed
 * Well-Typed
@@ -165,6 +166,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Stephen Diehl
 * Steven Shaw
 * Theunis Kotze
+* Tim Adams
 * Toby Goodwin
 * Tristan Webb
 * Vincent Hanquez
