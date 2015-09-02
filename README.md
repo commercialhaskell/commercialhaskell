@@ -50,6 +50,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * MyFansDemand
 * Picus Security
 * Pivot Cloud
+* Prezi
 * Rheo Systems
 * Silk
 * Snowdrift.coop
@@ -98,6 +99,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Chris Dornan
 * Christopher Reichert
 * Colin King
+* Daniel Vigovszky
 * David Johnson
 * Denis Kasak
 * Dennis J. McWherter, Jr.
