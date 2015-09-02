@@ -80,6 +80,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Alexandr Kurilin
 * Alfredo Di Napoli
 * Alp Mestanogullari
+* Andor Penzes
 * Andres Löh
 * Andy Gill
 * Arnaud Bailly
