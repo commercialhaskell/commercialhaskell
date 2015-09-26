@@ -52,6 +52,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Pivot Cloud
 * Prezi
 * Rheo Systems
+* Scyfy Technologies
 * Silk
 * Snowdrift.coop
 * Soostone
@@ -160,6 +161,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Rémi Vion
 * Remy Goldschmidt
 * Renzo Carbonara
+* Revence Kalibwani
 * Rick Owens
 * Roel van Dijk
 * Ryan Booker
