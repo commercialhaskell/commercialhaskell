@@ -150,6 +150,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Neil Mitchell
 * Nikita Karetnikov
 * Njagi Mwaniki
+* Oleg Grenrus
 * Ozgun Ataman
 * Pat Brisbin
 * Patrick Flor
