@@ -116,6 +116,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Fuzz Leonard
 * Giovanni Cappellotto
 * Greg Weber
+* Greg Wiley
 * Ian Graves
 * Ilya Zubkov
 * Ivan Perez
