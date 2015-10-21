@@ -157,6 +157,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Patrick Flor
 * Patrick Mylund Nielsen
 * Pawel Stasiak
+* Pedro Rodrigues
 * Philipp Kant
 * Ray Qiu
 * Rehno Lindeque
