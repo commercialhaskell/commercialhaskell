@@ -28,25 +28,43 @@ The following is a list of members of the group. Everyone is welcome to be part 
 ## Companies
 
 * Anchor
+* Applikativ
 * Borders
+* Capital Match
 * Chordify
 * CircuitHub
+* Elsen
 * Facebook
 * FP Complete
+* Front Row Education
+* Helium Systems
 * Hooky, Inc
 * Infinipool
 * Iris Connect
 * Keera Studios
+* Kite & Lightning
 * Least Fixed
 * LexisNexis Risk Solutions
 * Lumi Guide
 * Microsoft
+* MyFansDemand
 * Picus Security
 * Pivot Cloud
+* Prezi
+* Rheo Systems
+* Scyfy Technologies
 * Silk
+* Snowdrift.coop
+* Soostone
 * Standard Chartered
+* Suite Solutions
+* SumAll
+* Systor Vest
 * thoughtbot
+* Tree.is
 * Tsuru Capital
+* VaryWell
+* VFILES
 * Wagon
 * Wellposed
 * Well-Typed
@@ -57,11 +75,16 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Adam Foltzer
 * Adam Gundry
 * Aistis Raulinaitis
+* Alex Babkin
 * Alex Lang
+* Alexander Thiemann
+* Alexandr Kurilin
 * Alfredo Di Napoli
 * Alp Mestanogullari
+* Andor Penzes
 * Andres Löh
 * Andy Gill
+* Arnaud Bailly
 * Aycan iRiCAN
 * Bas de Haas
 * Bas van Dijk
@@ -69,22 +92,36 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Ben Moseley
 * Ben Sherman
 * Bert Añasco
+* Bill Laboon
 * Blake Rain
+* Bryan Richter
 * Carter Schonwald
 * Chris Allen
 * Chris Done
 * Chris Dornan
 * Christopher Reichert
+* Colin King
+* Daniel Vigovszky
 * David Johnson
+* Denis Kasak
+* Dennis J. McWherter, Jr.
 * Duncan Coutts
 * Edward Kmett
+* Eric Fode
 * Erik Hesselink
+* Ethan Glasser-Camp
+* Finn Espen Gundersen
 * Flavio Villanustre
+* Franklin Chen
 * Fuzz Leonard
+* Giovanni Cappellotto
 * Greg Weber
+* Greg Wiley
 * Ian Graves
 * Ilya Zubkov
 * Ivan Perez
+* Jared Tobin
+* Jason Hickner
 * Jasper Van der Jeugt
 * Jesus Gonzalez
 * Jon Sterling
@@ -95,28 +132,51 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Kyle Marek-Spartz
 * Liyang HU
 * Luke Hoersten
+* Luke Iannini
 * Manuel Chakravarty
 * Mark Daly
 * Mathieu Boespflug
 * Matt DeLand
 * Mattias Lundell
 * Michael Baikov
+* Michael Boone
+* Michael Gilliland
 * Michael Snoyman
+* Michael Steele
 * Miëtek Bak
 * Mike Craig
+* Mikkel Christiansen
 * Moritz Angermann
 * Neil Bartlett
 * Neil Mitchell
+* Nikita Karetnikov
+* Njagi Mwaniki
+* Oleg Grenrus
+* Ozgun Ataman
 * Pat Brisbin
 * Patrick Flor
 * Patrick Mylund Nielsen
+* Pawel Stasiak
+* Pedro Rodrigues
 * Philipp Kant
+* Ray Qiu
 * Rehno Lindeque
+* Rémi Vion
+* Remy Goldschmidt
 * Renzo Carbonara
+* Revence Kalibwani
+* Rick Owens
 * Roel van Dijk
 * Ryan Booker
 * Sharif Olorin
+* Sibi Prabakaran
 * Simon Marlow
+* Stephen Diehl
+* Steven Shaw
 * Theunis Kotze
+* Tim Adams
+* Toby Goodwin
 * Tristan Webb
 * Vincent Hanquez
+* Willem van den Ende
+* Yitz Gale
