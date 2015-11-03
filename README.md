@@ -104,6 +104,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Daniel Vigovszky
 * David Johnson
 * Denis Kasak
+* Denis Shevchenko
 * Dennis J. McWherter, Jr.
 * Duncan Coutts
 * Edward Kmett
