@@ -52,6 +52,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Pivot Cloud
 * Prezi
 * Rheo Systems
+* Scoompa
 * Scyfy Technologies
 * Silk
 * Snowdrift.coop
