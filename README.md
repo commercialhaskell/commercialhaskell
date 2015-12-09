@@ -60,6 +60,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Standard Chartered
 * Suite Solutions
 * SumAll
+* Swift Navigation
 * Systor Vest
 * thoughtbot
 * Tree.is
@@ -113,6 +114,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Eric Fode
 * Erik Hesselink
 * Ethan Glasser-Camp
+* Fergus Noble
 * Finn Espen Gundersen
 * Flavio Villanustre
 * Franklin Chen
