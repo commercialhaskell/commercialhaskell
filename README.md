@@ -57,6 +57,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Silk
 * Snowdrift.coop
 * Soostone
+* Stack Builders
 * Standard Chartered
 * Suite Solutions
 * SumAll
