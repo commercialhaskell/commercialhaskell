@@ -103,6 +103,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Chris Allen
 * Chris Done
 * Chris Dornan
+* Christopher Armstrong
 * Christopher Reichert
 * Colin King
 * Daniel Vigovszky
