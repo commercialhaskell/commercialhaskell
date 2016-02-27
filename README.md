@@ -82,6 +82,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Aistis Raulinaitis
 * Alex Babkin
 * Alex Lang
+* Alexander Abushkevich
 * Alexander Thiemann
 * Alexandr Kurilin
 * Alfredo Di Napoli
