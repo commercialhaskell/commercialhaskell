@@ -37,6 +37,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Extensibl
 * Facebook
 * FP Complete
+* FPInsight
 * Front Row Education
 * Helium Systems
 * Hooky, Inc
@@ -188,6 +189,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Stephen Diehl
 * Steven Shaw
 * Theunis Kotze
+* Thierry Bourrillon
 * Tim Adams
 * Toby Goodwin
 * Tristan Webb
