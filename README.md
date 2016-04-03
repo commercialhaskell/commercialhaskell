@@ -68,6 +68,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * thoughtbot
 * Tree.is
 * Tsuru Capital
+* UpHere
 * VaryWell
 * VFILES
 * Virtual Forge
@@ -130,6 +131,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Greg Weber
 * Greg Wiley
 * Ian Graves
+* Ian-Woo Kim
 * Ilya Zubkov
 * Ivan Perez
 * Jared Tobin
