@@ -119,6 +119,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Denis Shevchenko
 * Dennis J. McWherter, Jr.
 * Duncan Coutts
+* Edward Haigh
 * Edward Kmett
 * Emanuel Borsboom
 * Eric Fode
