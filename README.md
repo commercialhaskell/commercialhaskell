@@ -33,6 +33,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Capital Match
 * Chordify
 * CircuitHub
+* Commonwealth Bank
 * Elsen
 * Extensibl
 * Facebook
