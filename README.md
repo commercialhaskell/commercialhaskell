@@ -29,6 +29,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 
 * Anchor
 * Applikativ
+* Assertible
 * Borders
 * Capital Match
 * Chordify
@@ -59,6 +60,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Scoompa
 * Scyfy Technologies
 * Silk
+* SimplyRETS
 * Snowdrift.coop
 * Soostone
 * Stack Builders
