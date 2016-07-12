@@ -72,6 +72,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * thoughtbot
 * Tree.is
 * Tsuru Capital
+* Turing Jump
 * UpHere
 * VaryWell
 * VFILES
@@ -148,6 +149,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Jesus Gonzalez
 * Jon Sterling
 * José Pedro Magalhães
+* Julian Arni
 * Junji Hashimoto
 * Jürgen Keck
 * JP Smith
