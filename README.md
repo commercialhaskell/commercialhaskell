@@ -31,6 +31,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Applikativ
 * Assertible
 * Borders
+* Beautiful Destinations
 * Capital Match
 * Chordify
 * CircuitHub
