@@ -36,6 +36,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Chordify
 * CircuitHub
 * Commonwealth Bank
+* [DigitalX](http://digitalx.com)
 * Elsen
 * Extensibl
 * Facebook
