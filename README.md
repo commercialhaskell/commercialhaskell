@@ -55,6 +55,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Lumi Guide
 * Madriska Inc.
 * Microsoft
+* Midroll
 * MyFansDemand
 * Picus Security
 * Pivot Cloud
@@ -69,6 +70,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Soostone
 * Stack Builders
 * Standard Chartered
+* Stitcher
 * Suite Solutions
 * SumAll
 * Swift Navigation
