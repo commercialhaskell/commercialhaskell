@@ -158,6 +158,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Julian Arni
 * Junji Hashimoto
 * Jürgen Keck
+* Junyoung Clare Jang
 * JP Smith
 * Kwang Yul Seo
 * Kyle Marek-Spartz
