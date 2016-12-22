@@ -86,6 +86,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Wagon
 * Wellposed
 * Well-Typed
+* [Vengit Kft.](https://vengit.com/)
 
 ## Individuals
 
@@ -215,3 +216,4 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Vincent Hanquez
 * Willem van den Ende
 * Yitz Gale
+* Fábián Tamás László
