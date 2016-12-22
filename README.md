@@ -81,12 +81,12 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Turing Jump
 * UpHere
 * VaryWell
+* [Vengit Kft.](https://vengit.com/)
 * VFILES
 * Virtual Forge
 * Wagon
 * Wellposed
 * Well-Typed
-* [Vengit Kft.](https://vengit.com/)
 
 ## Individuals
 
@@ -137,6 +137,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Eric Fode
 * Erik Hesselink
 * Ethan Glasser-Camp
+* Fábián Tamás László
 * Fergus Noble
 * Finn Espen Gundersen
 * Flavio Villanustre
@@ -216,4 +217,3 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Vincent Hanquez
 * Willem van den Ende
 * Yitz Gale
-* Fábián Tamás László
