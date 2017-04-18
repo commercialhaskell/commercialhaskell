@@ -34,6 +34,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Beautiful Destinations
 * ByteAlly
 * Capital Match
+* [ChaosGroup](https://www.chaosgroup.com)
 * Chordify
 * CircuitHub
 * Commonwealth Bank
