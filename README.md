@@ -53,6 +53,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Kite & Lightning
 * Least Fixed
 * LexisNexis Risk Solutions
+* [Lindenbaum](https://www.lindenbaum.eu/)
 * Lumi Guide
 * Madriska Inc.
 * Microsoft
