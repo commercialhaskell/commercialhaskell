@@ -190,6 +190,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Neil Mitchell
 * Nikita Karetnikov
 * Niklas Hambüchen
+* Nikos Baxevanis
 * Njagi Mwaniki
 * Noon van der Silk
 * Oleg Grenrus
