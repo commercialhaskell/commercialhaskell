@@ -44,7 +44,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Facebook
 * FP Complete
 * FPInsight
-* Front Row Education
+* Freckle Education
 * Helium Systems
 * Hooky, Inc
 * Infinipool
