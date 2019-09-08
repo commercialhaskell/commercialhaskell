@@ -42,6 +42,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Elsen
 * Extensibl
 * Facebook
+* [Fairy Tale - Artificial General Intelligence Solutions](https://github.com/fairy-tale-agi-solutions)
 * FP Complete
 * FPInsight
 * Front Row Education
