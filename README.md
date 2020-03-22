@@ -50,7 +50,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Hooky, Inc
 * Infinipool
 * Iris Connect
-* Keera Studios
+* [Keera Studios](https://keera.co.uk)
 * Kite & Lightning
 * Least Fixed
 * LexisNexis Risk Solutions
