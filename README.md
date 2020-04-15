@@ -52,7 +52,6 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Iris Connect
 * [Keera Studios](https://keera.co.uk)
 * Kite & Lightning
-* Least Fixed
 * LexisNexis Risk Solutions
 * [Lindenbaum](https://www.lindenbaum.eu/)
 * Lumi Guide
@@ -183,7 +182,6 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Michael Gilliland
 * Michael Snoyman
 * Michael Steele
-* Miëtek Bak
 * Mike Craig
 * Mikkel Christiansen
 * Moritz Angermann
