@@ -208,6 +208,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Revence Kalibwani
 * Rick Owens
 * Roel van Dijk
+* Rui Azevedo
 * Ryan Booker
 * Sahil Kharb
 * Sharif Olorin
