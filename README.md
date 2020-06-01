@@ -56,6 +56,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * [Lindenbaum](https://www.lindenbaum.eu/)
 * Lumi Guide
 * Madriska Inc.
+* [Mercury](https://mercury.co)
 * Microsoft
 * Midroll
 * MyFansDemand
