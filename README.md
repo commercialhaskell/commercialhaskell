@@ -109,6 +109,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Andres Löh
 * Andy Gill
 * Arnaud Bailly
+* Augusto Dias
 * Aycan iRiCAN
 * Bas de Haas
 * Bas van Dijk
