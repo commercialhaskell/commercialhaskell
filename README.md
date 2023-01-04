@@ -43,6 +43,7 @@ The following is a list of members of the group. Everyone is welcome to be part 
 * Extensibl
 * Facebook
 * [Fairy Tale - Artificial General Intelligence Solutions](https://github.com/fairy-tale-agi-solutions)
+* [Formal Land](https://formal.land/)
 * FP Complete
 * FPInsight
 * Front Row Education
