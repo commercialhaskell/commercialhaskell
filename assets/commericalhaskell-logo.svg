@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg12"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   sodipodi:docname="commericalhaskell-logo-new.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="1.1628592"
+     inkscape:cx="141.2739"
+     inkscape:cy="324.80134"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g20"
+     inkscape:document-rotation="0" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Document"
+     id="g20">
+    <g
+       id="g891"
+       inkscape:label="Lambda"
+       style="stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-xdpi="720"
+       inkscape:export-ydpi="720">
+      <path
+         style="fill:#453a62;fill-opacity:1;stroke:#000000;stroke-width:23;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 0,74.793349 H 89.995249 L 211.00238,255.39192 90.299287,436.59858 H -0.304038 L 120.39905,256.30404 Z"
+         id="path879" />
+      <path
+         style="fill:#5e5086;fill-opacity:1;stroke:#000000;stroke-width:23;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 120.09501,74.489311 h 90.90737 L 451.1924,436.59858 H 360.89311 L 286.4038,323.1924 210.3943,436.59858 H 120.09501 L 240.49406,255.39192 Z"
+         id="path881" />
+      <path
+         style="fill:#8f4e8b;fill-opacity:1;stroke:#000000;stroke-width:23;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 310.6567,179.72941 h 200.58318 v 60.84142 H 350.85933 Z"
+         id="path883" />
+      <path
+         style="fill:#8f4e8b;fill-opacity:1;stroke:#000000;stroke-width:23;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 371.06814,270.23908 h 140.17174 v 60.62643 H 410.8408 Z"
+         id="path885" />
+    </g>
+    <g
+       id="g935"
+       inkscape:label="Verified"
+       style="fill:#91bb3f;fill-opacity:1;stroke:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(724.96532,177.37412)"
+       inkscape:export-xdpi="720"
+       inkscape:export-ydpi="720">
+      <ellipse
+         style="fill:#91bb3f;fill-opacity:1;stroke:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path911"
+         cx="-297.54248"
+         cy="263.1445"
+         rx="121.72131"
+         ry="121.45686" />
+      <path
+         style="fill:#91bb3f;fill-opacity:1;stroke:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -364.07221,259.22446 41.42857,39.28574 77.85717,-84.28574"
+         id="path913" />
+    </g>
+  </g>
+</svg>
